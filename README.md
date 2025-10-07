@@ -1,9 +1,7 @@
-# Zada-Abra
 
 # About me
 ###### Fun Facts
 -Aspiring Web developer
-
 <br/>
 Hi! I'm Zaaidah Abrahams ♡ , a passionate developer creating innovative and accessible tech experiences. <br/>
 Passionate about learning and solving complex challenges.Im actively seeking internship or collaboration opportunites to grow skills and contribute to projects.
@@ -16,14 +14,21 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 ## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,py,bootstrap,nodejs,expressjs" />
+  </a>
+</p>
+
+## Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,oracle,oracleapex" />
   </a>
 </p>
 
 ## Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,wordpress,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=wordpress,vscode,github" />
   </a>  
 </p>
 
@@ -35,7 +40,6 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
   </a>
 </p>
 
-## Badges
 
 
 
